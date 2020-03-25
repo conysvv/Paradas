@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/rr"
+    android:orientation="vertical">
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/a" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="439dp"
+        android:layout_height="wrap_content"
+        android:background="#00EEEEEE"
+        android:text=" Belloto Norte-Aduana | Local:$380 Directo:$780 Escolar:$250"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ab" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Huanhuali-Aduna | Local:$380 Directo:$780 Escolar:$250"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/af" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ojos De Agua-Playa Ancha | Local:$380 Directo:$780 Escolar:$250"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/aj" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Peñablanca-Aduana | Local:$380 Directo:$780 Escolar:$250"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/al" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Los Pinos-Playa Ancha | Local:$380 Directo:$780 Escolar:$250"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
+
+    <ImageView
+        android:id="@+id/imageView9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/an" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Vega-Aduana | Local:$380 Directo:$780 Escolar:$250"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
+
+    <ImageView
+        android:id="@+id/imageView10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ao" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Belloto Sur-Playa Ancha | Local:$380 Directo:$780 Escolar:$250"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
+
+    <ImageView
+        android:id="@+id/imageView11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/b" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Miraflores-Plaza Victoria | Local:$380 Directo:$540 Escolar:$180"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
+
+    <ImageView
+        android:id="@+id/imageView12"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/bc" />
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Gomez Carreño-Cerro Toro | Local:$380 Directo:$540 Escolar:$180"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
+
+    <ImageView
+        android:id="@+id/imageView13"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/c" />
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Peñablanca-Jardin Del Mar | Local:$370 Directo:$780 Escolar:$150"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
+
+    <ImageView
+        android:id="@+id/imageView14"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/cb" />
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Gumercindo-Concon | Local:$370 Directo:$780 Escolar:$150"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
+
+    <ImageView
+        android:id="@+id/imageView15"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/d" />
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        tools:text="Placilla-Concon | Local:$380 Directo:$540 Escolar:$180" />
+
+    <ImageView
+        android:id="@+id/imageView16"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/da" />
+
+    <TextView
+        android:id="@+id/textView17"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Chorrillos-Puerto Montt | Local:$380 Directo:$540 Escolar:$180"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
+
+    <ImageView
+        android:id="@+id/imageView17"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/dc" />
+
+    <TextView
+        android:id="@+id/textView18"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Reñaca Alto-Los Placeres | Local:$380 Directo:$540 Escolar:$180"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
+
+    <ImageView
+        android:id="@+id/imageView18"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/e" />
+
+    <TextView
+        android:id="@+id/textView19"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Baron-Viña Del Mar | Local:$280 Directo:$480 Escolar:$150"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
+
+    <ImageView
+        android:id="@+id/imageView19"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/f" />
+
+    <TextView
+        android:id="@+id/textView20"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Playa Ancha-Concon | Local:$380 Directo:$540 Escolar:$180"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
+
+    <ImageView
+        android:id="@+id/imageView20"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/fa" />
+
+    <TextView
+        android:id="@+id/textView21"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Playa Ancha-Concon | Local:$380 Directo:$540 Escolar:$180"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
+
+    <ImageView
+        android:id="@+id/imageView21"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/fb" />
+
+    <TextView
+        android:id="@+id/textView22"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Gomez Carreño-Montedónico | Local:$380 Directo:$540 Escolar:$180"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
+
+</LinearLayout>
